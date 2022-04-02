@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoBao-CS
-- 👀 I’m interested in AI
-- 💞️ I’m looking to collaborate on Machine learning projects.
+- 👀 I’m interested in CV, NLP, applied math topics inclduing dynamic system, cryptography，analysis. 
+- 💞️ I’m looking to collaborate on cryptography and AI related projects.
 - 📫 How to reach me: 1249424990bsq@gmail.com
 
 <!---
